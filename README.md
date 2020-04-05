@@ -1,4 +1,4 @@
-<!-- 
+
 - [Vue](#vue)
   - [开发流程](#%e5%bc%80%e5%8f%91%e6%b5%81%e7%a8%8b)
   - [data](#data)
@@ -31,11 +31,8 @@
   - [vue生命周期有哪些](#vue%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f%e6%9c%89%e5%93%aa%e4%ba%9b)
   - [数组API](#%e6%95%b0%e7%bb%84api)
   - [动态数组响应式数据](#%e5%8a%a8%e6%80%81%e6%95%b0%e7%bb%84%e5%93%8d%e5%ba%94%e5%bc%8f%e6%95%b0%e6%8d%ae)
- -->
 
 
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true } -->
 
 
 # Vue
